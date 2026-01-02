@@ -1,0 +1,9 @@
+# Evidence should NEVER be versioned
+evidence/
+collection/hashes_*.txt
+collection/hashes_*.sha256
+
+# Temp / OS
+*.log
+*.tmp
+.DS_Store
