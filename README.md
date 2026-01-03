@@ -1,5 +1,12 @@
 # Forensic Incident Lab — Evidence Collection & Analysis (Linux)
 
+⚠️ **Aviso importante (uso educativo)**
+
+Este repositorio es un laboratorio educativo de DFIR (Digital Forensics & Incident Response).
+No contiene datos reales ni evidencia procedente de sistemas productivos.
+Todas las evidencias, logs y artefactos han sido generados en un entorno Linux controlado
+con fines de aprendizaje y demostración de buenas prácticas forenses.
+
 Proyecto práctico de **DFIR / Forensic en Linux**, orientado a demostrar un flujo real de:
 - **preservación de evidencias**
 - **cadena de custodia**

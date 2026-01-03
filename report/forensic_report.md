@@ -1,3 +1,4 @@
+nano report/forensic_report.md
 # Forensic Incident Report  
 **Proyecto:** Forensic Incident Lab – Linux  
 **Analista:** Ignacio Menárguez Fernández  
@@ -106,6 +107,21 @@ Este caso demuestra un enfoque estructurado de DFIR orientado a SOC:
 - Análisis basado en evidencias
 - Documentación defendible
 - Conclusiones sin suposiciones
+
+---
+
+## Conclusiones profesionales
+
+- No se observan indicadores claros de compromiso activo en el sistema analizado.
+- La recolección de evidencias se realizó sin alterar el estado del sistema ni los artefactos.
+- Los logs y procesos analizados permiten establecer una línea base del sistema.
+
+### Recomendaciones
+
+- Integrar los indicadores observados como baseline en el SIEM.
+- Ajustar reglas de detección relacionadas con procesos y conexiones de red.
+- Repetir la recolección ante cualquier alerta correlacionada futura.
+- Complementar este análisis con memoria RAM en incidentes activos.
 
 ---
 
